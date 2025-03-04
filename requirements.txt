@@ -1,0 +1,16 @@
+langchain
+langchain_community
+openai
+python-dotenv
+tiktoken
+pypdf
+beautifulsoup4
+chardet
+faiss-cpu
+numpy
+pandas
+email-validator
+streamlit
+argparse
+requests
+python-dateutil
