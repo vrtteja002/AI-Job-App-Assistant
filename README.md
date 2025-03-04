@@ -245,4 +245,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-© 2025 AI Job Application Assistant | Made with ❤️ for job seekers
+Made with ❤️ for job hunters
