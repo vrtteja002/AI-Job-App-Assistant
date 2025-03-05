@@ -241,7 +241,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Built with [Streamlit](https://streamlit.io/)
 - Powered by [LangChain](https://github.com/langchain-ai/langchain) and [OpenAI GPT-4o](https://openai.com/)
 - Job data from Google Jobs
-- Special thanks to all contributors and the open-source community
 
 ---
 Made with ❤️ for job hunters
